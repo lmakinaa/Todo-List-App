@@ -1,10 +1,9 @@
 <H1>React Todo List App</H1>
 
-A simple code for practising my React.js knowlege (working with components).
+A simple code for practicing my React.js knowledge (working with components).
 
 <H1>Build Setup</H1>
 
+Installing the depencies => npm install
 
-npm install
-
-npm start
+serve locally in localhost:3000 => npm start
